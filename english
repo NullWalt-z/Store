@@ -1,4 +1,4 @@
-sub b0choose0 {
+﻿sub b0choose0 {
 $langindexkey=
 "HtmlHeader#Content-type: text/html; charset=utf-8
 
@@ -1130,179 +1130,21 @@ An email has been sent to us. Please wait for response.#An email has been sent t
 
 sub customize {
 $langindexkey=
-"Kansas City#Kansas City#
-Appliances#Appliances#
-Bath#Bath#
-Building Materials#Building Materials#
-Decor#Decor#
-Door & Windows#Door & Windows#
-Electrical#Electrical#
-Flooring#Flooring#
-Heating & Cooling#Heating & Cooling#
-Kitchen#Kitchen#
-Lighting & Ceiling Fans#Lighting & Ceiling Fans#
-Lumber & Composites#Lumber & Composites#
-Outdoors#Outdoors#
-Paint#Paint#
-Plumbing#Plumbing#
-Storage & Organization#Storage & Organization#
-Tools#Tools#
-Appliances Parts & Accessories#Appliances Parts & Accessories#
-Dishwashers#Dishwashers#
-Freezers#Freezers#
-Garbage Disposals#Garbage Disposals#
-Microwaves#Microwaves#
-Range Hoods#Range Hoods#
-Ranges#Ranges#
-Small Appliances#Small Appliances#
-Vacuums#Vacuums#
-Ovens#Ovens#
-Washers & Dryers#Washers & Dryers#
-Water Coolers#Water Coolers#
-Bathroom Cabinets#Bathroom Cabinets#
-Bathroom Fans#Bathroom Fans#
-Faucets#Faucets#
-Mirrors#Mirrors#
-Sinks#Sinks#
-Bathtubs#Bathtubs#
-Showers & Shower Accessories#Showers & Shower Accessories#
-Toilets & Toilet Seats#Toilets & Toilet Seats#
-Ceilings#Ceilings#
-Concrete Cement & Masonry#Concrete Cement & Masonry#
-Decking#Decking#
-Drywall#Drywall#
-Fireplace Accessories#Fireplace Accessories#
-Glass & Acrylic#Glass & Acrylic#
-Insulation & Accessories#Insulation & Accessories#
-Ladders#Ladders#
-Lumber#Lumber#
-Moulding & Wallpanels#Moulding & Wallpanels#
-Roofing & Gutters#Roofing & Gutters#
-Siding & Stone Veneer#Siding & Stone Veneer#
-Stairs & Ailings#Stairs & Ailings#
-Ventilation#Ventilation#
-Awnings & Accessories#Awnings & Accessories#
-Doors#Doors#
-Exterior Shutters & Accessories#Exterior Shutters & Accessories#
-Garage Doors & Openers#Garage Doors & Openers#
-Windows#Windows#
-Batteries#Batteries#
-Cable & Wire Connectors#Cable & Wire Connectors#
-Circuit Breakers#Circuit Breakers#
-Conduit & Conduit Fittings#Conduit & Conduit Fittings#
-Dimmers & Switches#Dimmers & Switches#
-Door Bells#Door Bells#
-Electrical Boxes & Covers#Electrical Boxes & Covers#
-Electrical Outles & Adapters#Electrical Outles & Adapters#
-Electrical Tools#Electrical Tools#
-Extension Cords#Extension Cords#
-Generators#Generators#
-Light Sockets#Light Sockets#
-Wall Plates#Wall Plates#
-Carpet#Carpet#
-Floor Moulding#Floor Moulding#
-Flooring Tools#Flooring Tools#
-Hardwood Flooring#Hardwood Flooring#
-Rugs#Rugs#
-Tile & Stone#Tile & Stone#
-Vinyl Flooring#Vinyl Flooring#
-Air Conditioners#Air Conditioners#
-Air Filters#Air Filters#
-Air Purifiers#Air Purifiers#
-Attic Ventilation#Attic Ventilation#
-Fireplaces#Fireplaces#
-Heaters#Heaters#
-Humidifiers & Dehumidifiers#Humidifiers & Dehumidifiers#
-Thermostats#Thermostats#
-Kitchen Faucets#Kitchen Faucets#
-Kitchen Sinks#Kitchen Sinks#
-Kitchen Cabinets#Kitchen Cabinets#
-Kitchen Countertops#Kitchen Countertops#
-Kitchen Wall Tiles#Kitchen Wall Tiles#
-Bathroom Lighting#Bathroom Lighting#
-Ceiling Fans#Ceiling Fans#
-Ceiling Lights#Ceiling Lights#
-Chandeliers & Pendant Lighting#Chandeliers & Pendant Lighting#
-Kitchen Lighting#Kitchen Lighting#
-Lamps & Lamp Shades#Lamps & Lamp Shades#
-Landscape Lighting#Landscape Lighting#
-Lighting Bulbs#Lighting Bulbs#
-Timers#Timers#
-Boards#Boards#
-Decking#Decking#
-Fencing#Fencing#
-Paneling#Paneling#
-Plywood & Sheathing#Plywood & Sheathing#
-Shims & Wood Shingles#Shims & Wood Shingles#
-Timber#Timber#
-Animal & Pet Care#Animal & Pet Care#
-Bird Care#Bird Care#
-Grills#Grills#
-Hot Tubs#Hot Tubs#
-Patio Furniture#Patio Furniture#
-Play Sets & Swing Sets#Play Sets & Swing Sets#
-Pools#Pools#
-Caulking#Caulking#
-Cleaners#Cleaners#
-Drop Cloths & Sheeting#Drop Cloths & Sheeting#
-Glues & Tapes#Glues & Tapes#
-Paint & Primer#Paint & Primer#
-Paint Brushes, Rollers & Kits#Paint Brushes, Rollers & Kits#
-Paint Cleanup#Paint Cleanup#
-Paint Sprayers#Paint Sprayers#
-Patching#Patching#
-Sanding#Sanding#
-Scrapers, Blades & Tools#Scrapers, Blades & Tools#
-Stains & Sealers#Stains & Sealers#
-Thinners & Removers#Thinners & Removers#
-Augers, Plungers, Drain Openers#Augers, Plungers, Drain Openers#
-Laudry Tubs & Faucets#Laudry Tubs & Faucets#
-Pipes#Pipes#
-Laudry Tubs & Faucets#Laudry Tubs & Faucets#
-Plumbing Tools#Plumbing Tools#
-Pumps & Tanks#Pumps & Tanks#
-Valves#Valves#
-Water Filtration & Water Softners#Water Filtration & Water Softners#
-Water Heaters#Water Heaters#
-Closet Storage#Closet Storage#
-Folding Tables & Chairs#Folding Tables & Chairs#
-Garage Storage#Garage Storage#
-Hooks & Racks#Hooks & Racks#
-Laudry Storage#Laudry Storage#
-Moving Boxes & Supplies#Moving Boxes & Supplies#
-Office Storage#Office Storage#
-Shelves#Shelves#
-Storage Totes & Baskets#Storage Totes & Baskets#
-Air Tools & Compressors#Air Tools & Compressors#
-Drill & Drill Bits#Drill & Drill Bits#
-Grease Guns#Grease Guns#
-Grinders & Polishers#Grinders & Polishers#
-Hand Tools#Hand Tools#
-Joiners & Planers#Joiners & Planers#
-Measuring Tools#Measuring Tools#
-Nailers & Staplers#Nailers & Staplers#
-Power Saws & Saw Blades#Power Saws & Saw Blades#
-Presses & Lathes#Presses & Lathes#
-Rotary Tools & Oscillating Tools#Rotary Tools & Oscillating Tools#
-Routers & Router Bits#Routers & Router Bits#
-Sanders & Sand Paper#Sanders & Sand Paper#
-Tool Batteries & Chargers#Tool Batteries & Chargers#
-Welding & Cutting#Welding & Cutting#
-Production Place:#Production Place:#
-Production Date:#Production Date:#
-Expiration Date:#Expiration Date:#
-One Week#One Week#
-Two Weeks#Two Weeks#
-One Month#One Month#
-Two Months#Two Months#
-Three Months#Three Months#
-Six Months#Six Months#
-One Year#One Year#
-Two Years#Two Years#
-Three Years#Three Years#
-Nonexpire#Nonexpire#
-First:#First:#
-Second:#Second:#
+"Small/Handhelds#Small/Handhelds#
+Medium#Medium#
+Large/Aerial Cakes#Large/Aerial Cakes#
+Smoke Bombs#Smoke Bombs#
+Party Poppers#Party Poppers#
+Colored Snakes#Colored Snakes#
+Snappers#Snappers#
+Sparklers#Sparklers#
+Fountains#Fountains#
+Roman Candles#Roman Candles#
+Parachutes#Parachutes#
+100 gram#100 gram#
+200 gram#200 gram#
+300 gram#300 gram#
+Up to 500 gram#Up to 500 gram#
 ";
 
 }
