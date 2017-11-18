@@ -272,40 +272,40 @@ $defaultclassifyarray="small";
 
 %categoryarrayattri=(
 
-			"small" => {"smokeBombs"=>[],
-							 "partyPoppers"=>[],
-							 "coloredSnakes"=>[],
-							 "snappers"=>[],
-							 "sparklers"=>[]},
+			"small" => {"smokeBombs"=>["Burn", "Cost"],
+							 "partyPoppers"=>["Cost"],
+							 "coloredSnakes"=>["Cost"],
+							 "snappers"=>["Cost"],
+							 "sparklers"=>["Burn", "Cost"]},
 
-			"medium" => {"fountains"=>[],
-								 "romanCandles"=>[],
-								 "parachutes"=>[]},
+			"medium" => {"fountains"=>["Burn", "Cost"],
+								 "romanCandles"=>["Shots", "Cost"],
+								 "parachutes"=>["Shots", "Cost"]},
 								 
-			 "large" => {"100gram"=>[],
-							 "200gram"=>[],
-							 "300gram"=>[],
-							 "upTo500gram"=>[]},
+			 "large" => {"100gram"=>["Shots", "Cost"],
+							 "200gram"=>["Shots", "Cost"],
+							 "300gram"=>["Shots", "Cost"],
+							 "upTo500gram"=>["Shots", "Cost"]},
 
 );
 
 
 %categoryarrayattriname=(
 
-			"small" => {"smokeBombs"=>[],
-							 "partyPoppers"=>[],
-							 "coloredSnakes"=>[],
-							 "snappers"=>[],
-							 "sparklers"=>[]},
+			"small" => {"smokeBombs"=>["lang{'Burn Time:'} |10| <br><br>", "lang{'Cost:'} |10| <br><br>"],
+							 "partyPoppers"=>["lang{'Cost:'} |10|<br><br>"],
+							 "coloredSnakes"=>["lang{'Cost:'} |10|<br><br>"],
+							 "snappers"=>["lang{'Cost:'} |10|<br><br>"],
+							 "sparklers"=>[lang{'Burn Time:'} |10| <br><br>", "lang{'Cost:'} |10|<br><br>"]},
 
-			"medium" => {"fountains"=>[],
-								 "romanCandles"=>[],
-								 "parachutes"=>[]},
+			"medium" => {"fountains"=>["lang{'Burn Time:'} |10| <br><br>", "lang{'Cost:'} |10| <br><br>"],
+								 "romanCandles"=>["lang{'Shots:'} |10| <br><br>", "lang{'Cost:'} |10| <br><br>"],
+								 "parachutes"=>["lang{'Shots:'} |10| <br><br>", "lang{'Cost:'} |10| <br><br>"]},
 								 
-			 "large" => {"100gram"=>[],
-							 "200gram"=>[],
-							 "300gram"=>[],
-							 "upTo500gram"=>[]},
+			 "large" => {"100gram"=>["lang{'Shots:'} |10| <br><br>", "lang{'Cost:'} |10| <br><br>"],
+							 "200gram"=>["lang{'Shots:'} |10| <br><br>", "lang{'Cost:'} |10| <br><br>"],
+							 "300gram"=>["lang{'Shots:'} |10| <br><br>", "lang{'Cost:'} |10| <br><br>"],
+							 "upTo500gram"=>["lang{'Shots:'} |10| <br><br>", "lang{'Cost:'} |10| <br><br>"]},
 
 );
 
