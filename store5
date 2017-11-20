@@ -296,7 +296,7 @@ $defaultclassifyarray="small";
 							 "partyPoppers"=>["lang{'Cost:'} |10|<br><br>"],
 							 "coloredSnakes"=>["lang{'Cost:'} |10|<br><br>"],
 							 "snappers"=>["lang{'Cost:'} |10|<br><br>"],
-							 "sparklers"=>[lang{'Burn Time:'} |10| <br><br>", "lang{'Cost:'} |10|<br><br>"]},
+							 "sparklers"=>["lang{'Burn Time:'} |10| <br><br>", "lang{'Cost:'} |10|<br><br>"]},
 
 			"medium" => {"fountains"=>["lang{'Burn Time:'} |10| <br><br>", "lang{'Cost:'} |10| <br><br>"],
 								 "romanCandles"=>["lang{'Shots:'} |10| <br><br>", "lang{'Cost:'} |10| <br><br>"],
