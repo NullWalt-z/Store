@@ -230,14 +230,12 @@ $defaultclassifyarray="small";
 							 "partyPoppers",
 							 "coloredSnakes",
 							 "snappers",
-							 "sparklers",
-							 "bottleRockets"],
+							 "sparklers"],
 
 			"medium" => ["fountains",
 								 "romanCandles",
 								 "parachutes",
-								 "pinWheels",
-								 "mediumRockets"],
+								 "pinWheels"],
 								 
 			"large" => ["100gram",
 							"200gram",
@@ -260,14 +258,12 @@ $defaultclassifyarray="small";
 							 "$lang{'Party Poppers'}",
 							 "$lang{'Colored Snakes'}",
 							 "$lang{'Snappers'}",
-							 "$lang{'Sparklers'}",
-							 "$lang{'Bottle Rockets'}],
+							 "$lang{'Sparklers'}"],
 
 			"medium" => ["$lang{'Fountains'}", 
 								 "$lang{'Roman Candles'}",
 								 "$lang{'Parachutes'}",
-								 "$lang{'Pin-Wheels'}",
-								 "$lang{'Medium Rockets'}"],
+								 "$lang{'Pin-Wheels'}"],
 								 
 			 "large" => ["$lang{'100 gram'}", 
 							 "$lang{'200 gram'}",
@@ -282,14 +278,12 @@ $defaultclassifyarray="small";
 							 "partyPoppers"=>["Cost"],
 							 "coloredSnakes"=>["Cost"],
 							 "snappers"=>["Cost"],
-							 "sparklers"=>["Burn", "Cost"],
-							 "bottleRockets"=>["Shots", "Cost"]},
+							 "sparklers"=>["Burn", "Cost"]},
 
 			"medium" => {"fountains"=>["Burn", "Cost"],
 								 "romanCandles"=>["Shots", "Cost"],
 								 "parachutes"=>["Shots", "Cost"],
-								 "pinWheels"=>["Shots", "Cost"],
-								 "mediumRockets"=>["Shots", "Cost"]},
+								 "pinWheels"=>["Shots", "Cost"]},
 								 
 			 "large" => {"100gram"=>["Shots", "Cost"],
 							 "200gram"=>["Shots", "Cost"],
@@ -301,23 +295,20 @@ $defaultclassifyarray="small";
 
 %categoryarrayattriname=(
 
-			"small" => {"smokeBombs"=>["lang{'Burn Time:'} |10| <br><br>", "lang{'Cost:'} |10| <br><br>"],
-							 "partyPoppers"=>["lang{'Cost:'} |10|<br><br>"],
-							 "coloredSnakes"=>["lang{'Cost:'} |10|<br><br>"],
-							 "snappers"=>["lang{'Cost:'} |10|<br><br>"],
-							 "sparklers"=>["lang{'Burn Time:'} |10| <br><br>", "lang{'Cost:'} |10|<br><br>"],
-							 "bottleRockets"=>["lang{'Shots:'} |10| <br><br>", "lang{'Cost:'} |10|<br><br>"]},
+			"small" => {"smokeBombs"=>["$lang{'Burn Time:'} |10| <br><br>", "$lang{'Cost:'} |10| <br><br>"],
+							 "partyPoppers"=>["$lang{'Cost:'} |10|<br><br>"],
+							 "coloredSnakes"=>["$lang{'Cost:'} |10|<br><br>"],
+							 "snappers"=>["$lang{'Cost:'} |10|<br><br>"],
+							 "sparklers"=>["$lang{'Burn Time:'} |10| <br><br>", "$lang{'Cost:'} |10|<br><br>"]},
 
-			"medium" => {"fountains"=>["lang{'Burn Time:'} |10| <br><br>", "lang{'Cost:'} |10| <br><br>"],
-								 "romanCandles"=>["lang{'Shots:'} |10| <br><br>", "lang{'Cost:'} |10| <br><br>"],
-								 "parachutes"=>["lang{'Shots:'} |10| <br><br>", "lang{'Cost:'} |10| <br><br>"],
-								 "pinWheels"=>["lang{'Shots:'} |10| <br><br>", "lang{'Cost:'} |10| <br><br>"],
-								 "mediumRockets"=>["lang{'Shots:'} |10| <br><br>", "lang{'Cost:'} |10| <br><br>"]},
+			"medium" => {"fountains"=>["$lang{'Burn Time:'} |10| <br><br>", "$lang{'Cost:'} |10| <br><br>"],
+								 "romanCandles"=>["$lang{'Shots:'} |10| <br><br>", "$lang{'Cost:'} |10| <br><br>"],
+								 "parachutes"=>["$lang{'Shots:'} |10| <br><br>", "$lang{'Cost:'} |10| <br><br>"]},
 								 
-			 "large" => {"100gram"=>["lang{'Shots:'} |10| <br><br>", "lang{'Cost:'} |10| <br><br>"],
-							 "200gram"=>["lang{'Shots:'} |10| <br><br>", "lang{'Cost:'} |10| <br><br>"],
-							 "300gram"=>["lang{'Shots:'} |10| <br><br>", "lang{'Cost:'} |10| <br><br>"],
-							 "upTo500gram"=>["lang{'Shots:'} |10| <br><br>", "lang{'Cost:'} |10| <br><br>"]},
+			 "large" => {"100gram"=>["$lang{'Shots:'} |10| <br><br>", "$lang{'Cost:'} |10| <br><br>"],
+							 "200gram"=>["$lang{'Shots:'} |10| <br><br>", "$lang{'Cost:'} |10| <br><br>"],
+							 "300gram"=>["$lang{'Shots:'} |10| <br><br>", "$lang{'Cost:'} |10| <br><br>"],
+							 "upTo500gram"=>["$lang{'Shots:'} |10| <br><br>", "$lang{'Cost:'} |10| <br><br>"]},
 
 );
 
