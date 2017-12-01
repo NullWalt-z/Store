@@ -1131,9 +1131,9 @@ An email has been sent to us. Please wait for response.#An email has been sent t
 sub customize {
 $langindexkey=
 "Small/Handhelds#Small/Handhelds#
-Burn Time:#Burn Time: #
-Cost:#Cost: #
-Shots:#Shots: #
+Burn Time:#Burn Time:#
+Cost:#Cost:#
+Shots:#Shots:#
 Medium#Medium#
 Large/Aerial Cakes#Large/Aerial Cakes#
 Smoke Bombs#Smoke Bombs#
