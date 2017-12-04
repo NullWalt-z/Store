@@ -234,8 +234,7 @@ $defaultclassifyarray="small";
 
 			"medium" => ["fountains",
 								 "romanCandles",
-								 "parachutes",
-								 "pinWheels"],
+								 "parachutes"],
 								 
 			"large" => ["100gram",
 							"200gram",
@@ -262,8 +261,7 @@ $defaultclassifyarray="small";
 
 			"medium" => ["$lang{'Fountains'}", 
 								 "$lang{'Roman Candles'}",
-								 "$lang{'Parachutes'}",
-								 "$lang{'Pin-Wheels'}"],
+								 "$lang{'Parachutes'}"],
 								 
 			 "large" => ["$lang{'100 gram'}", 
 							 "$lang{'200 gram'}",
@@ -282,8 +280,7 @@ $defaultclassifyarray="small";
 
 			"medium" => {"fountains"=>["Burn", "Cost"],
 								 "romanCandles"=>["Shots", "Cost"],
-								 "parachutes"=>["Shots", "Cost"],
-								 "pinWheels"=>["Shots", "Cost"]},
+								 "parachutes"=>["Shots", "Cost"]},
 								 
 			 "large" => {"100gram"=>["Shots", "Cost"],
 							 "200gram"=>["Shots", "Cost"],
